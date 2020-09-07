@@ -5,7 +5,7 @@ function multiply(a, b) {
   a * b;
 }
 
-// Solution
+// My Solution:
 // It is simply missing the return keyword
 function multiply(a, b) {
   return a * b;
